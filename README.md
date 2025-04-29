@@ -1,2 +1,5 @@
 # app-dev
-My first repository
+**My favorite movies**
+- *High ang Low: Final Mission*
+- *#alive*
+- *Lego Batman The Movie*
